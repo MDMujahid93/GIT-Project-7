@@ -7,3 +7,5 @@ echo "$I"
 #Substraction
 
 #Divison
+
+#Multiplication
