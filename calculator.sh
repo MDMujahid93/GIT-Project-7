@@ -3,3 +3,7 @@
 I = $a + $b - $c 
 read
 echo "$I"
+
+#Substraction
+
+#Divison
